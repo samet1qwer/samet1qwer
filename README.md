@@ -2,11 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:6f42c1,100:e83e8c&height=200&section=header&text=Samet%20Karakurt&fontSize=50&fontColor=fff&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/samet1qwer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=6F42C1&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Samet+Karakurt;💻+Computer+Engineering+Student;🌐+Fullstack+Developer;🤖+AI+%26+Security+Enthusiast;📊+Machine+Learning+Explorer;🌍+Open+Source+Contributor" />
-  </a>
-</p>
+
 
 ---
 
